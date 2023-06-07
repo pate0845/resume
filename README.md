@@ -1,14 +1,11 @@
 <div align="center">
 <h1>Resume Builder</h1>
 
-### Free and open source, fully customizable professional single page resume builder
+### professional single page resume builder
 
-<a href="https://e-resume.vercel.app/"><img src="https://user-images.githubusercontent.com/12962887/201484876-75290af9-ccd6-4f6d-be96-6a8fb4f20c4b.png" alt="get started with resume builder" height="200" widdth="330" />
+<a href="https://resume-pate0845.vercel.app/"><img src="https://user-images.githubusercontent.com/12962887/201484876-75290af9-ccd6-4f6d-be96-6a8fb4f20c4b.png" alt="get started with resume builder" height="200" widdth="330" />
 
-<a href="https://e-resume.vercel.app">Resume builder</a>
-
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
+<a href="https://resume-pate0845.vercel.app">Resume builder</a>
 
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Material React](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
@@ -19,7 +16,7 @@
 
 ## About
 
-[Resume Builder](https://e-resume.vercel.app) is an open source application where one can effectively build a single page professional resume.
+[Resume Builder](https://resume-pate0845.vercel.app) is an application where one can effectively build a single page professional resume.
 
 Here are some reasons you should utilise this resume builder:
 
@@ -44,12 +41,6 @@ If you are a developer and would like to contribute to resume builder by fixing 
 
 <br>
 
-## Core contributors
 
-<a href="https://github.com/sadanandpai"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/gopal1996"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/yakshaG"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/siva-kannan3"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
 
 <br>
-
-## License
-
-This repository is MIT licensed. [Read more](./LICENSE)

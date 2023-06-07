@@ -9,7 +9,7 @@
 - Clone the repo
 
   ```
-  $ git clone https://github.com/sadanandpai/resume-builder.git
+  $ git clone https://github.com/pate0845/resume.git
   ```
 
   <br>
